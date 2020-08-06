@@ -5,11 +5,11 @@ This site will be similar to Eventbrite which allows users to create events and 
 events and send invitations and parties.
 
 ## Associations
-- User can create events
+- user can create events
 - user can attent many events
 - an event can be attended by many users
 - this will require many-to-many relationships
-- roeign keys and class names will also be used
+- foreign keys and class names will also be used
 
 ## Link
 https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations?ref=lnav
